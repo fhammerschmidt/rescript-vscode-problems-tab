@@ -17,6 +17,6 @@
     ]
   },
   "scripts": {
-    "build": "cd app && rescript build -with-deps"
+    "build": "rescript build -with-deps"
   }
 }
