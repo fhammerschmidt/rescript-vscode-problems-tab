@@ -15,5 +15,8 @@
       "app",
       "common"
     ]
+  },
+  "scripts": {
+    "build": "cd app && rescript build -with-deps"
   }
 }
