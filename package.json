@@ -1,0 +1,19 @@
+{
+  "name": "rescript-vscode-problems-tab",
+  "private": true,
+  "version": "0.1.0",
+  "keywords": [
+    "ReScript"
+  ],
+  "author": "Florian Hammerschmidt",
+  "license": "MIT",
+  "devDependencies": {
+    "rescript": "^9.1.4"
+  },
+  "workspaces": {
+    "packages": [
+      "app",
+      "common"
+    ]
+  }
+}

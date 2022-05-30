@@ -1,0 +1,10 @@
+{
+  "name": "rescript-vscode-problems-tab",
+  "sources": [],
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
+  "bs-dependencies": ["app", "common"],
+  "pinned-dependencies": ["app", "common"]
+}
